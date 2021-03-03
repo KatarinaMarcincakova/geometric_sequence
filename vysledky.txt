@@ -1,0 +1,11 @@
+SNIMOK 6:
+    pocet mimo priemerne:  3563.09
+    pocet na mozgu priemerne:  1889.738
+    pocet na tumore priemerne:  89.121
+    pocet inych priemerne:  4458.051
+
+SNIMOK 7:
+    pocet mimo priemerne:  3628.169
+    pocet na mozgu priemerne:  2222.53
+    pocet na tumore priemerne:  51.333
+    pocet inych priemerne:  4097.968

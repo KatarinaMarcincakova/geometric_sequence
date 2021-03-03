@@ -1,0 +1,72 @@
+-------------------------------------------------
+SCAN: 0
+    pocet mimo priemerne:  1475.534
+    pocet na mozgu priemerne:  2508.875
+    pocet na tumore priemerne:  405.093
+    pocet inych priemerne:  5610.498
+-------------------------------------------------
+SCAN: 1
+    pocet mimo priemerne:  1961.162
+    pocet na mozgu priemerne:  1245.785
+    pocet na tumore priemerne:  233.502
+    pocet inych priemerne:  6559.551
+-------------------------------------------------
+SCAN: 2
+    pocet mimo priemerne:  2028.516
+    pocet na mozgu priemerne:  1221.217
+    pocet na tumore priemerne:  534.43
+    pocet inych priemerne:  6215.837
+-------------------------------------------------
+SCAN: 3
+    pocet mimo priemerne:  2305.937
+    pocet na mozgu priemerne:  2046.472
+    pocet na tumore priemerne:  0.208
+    pocet inych priemerne:  5647.383
+-------------------------------------------------
+SCAN: 4
+    pocet mimo priemerne:  3836.22
+    pocet na mozgu priemerne:  2216.765
+    pocet na tumore priemerne:  0.429
+    pocet inych priemerne:  3946.586
+-------------------------------------------------
+SCAN: 5
+    pocet mimo priemerne:  3706.109
+    pocet na mozgu priemerne:  2051.15
+    pocet na tumore priemerne:  18.257
+    pocet inych priemerne:  4224.484
+-------------------------------------------------
+SCAN: 6
+    pocet mimo priemerne:  3561.967
+    pocet na mozgu priemerne:  1889.278
+    pocet na tumore priemerne:  88.459
+    pocet inych priemerne:  4460.296
+-------------------------------------------------
+SCAN: 7
+    pocet mimo priemerne:  3630.824
+    pocet na mozgu priemerne:  2221.477
+    pocet na tumore priemerne:  50.715
+    pocet inych priemerne:  4096.984
+-------------------------------------------------
+SCAN: 8
+    pocet mimo priemerne:  3420.127
+    pocet na mozgu priemerne:  2531.659
+    pocet na tumore priemerne:  31.73
+    pocet inych priemerne:  4016.484
+-------------------------------------------------
+SCAN: 9
+    pocet mimo priemerne:  2988.095
+    pocet na mozgu priemerne:  3673.808
+    pocet na tumore priemerne:  2.479
+    pocet inych priemerne:  3335.618
+-------------------------------------------------
+SCAN: 10
+    pocet mimo priemerne:  3314.44
+    pocet na mozgu priemerne:  2000.41
+    pocet na tumore priemerne:  3.443
+    pocet inych priemerne:  4681.707
+-------------------------------------------------
+SCAN: 11
+    pocet mimo priemerne:  1523.645
+    pocet na mozgu priemerne:  4645.577
+    pocet na tumore priemerne:  36.571
+    pocet inych priemerne:  3794.207

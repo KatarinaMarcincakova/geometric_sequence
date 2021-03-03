@@ -1,0 +1,52 @@
+from PIL import Image
+import numpy
+import random
+
+inputSnimky = ['images/BS1/bs0.png' , 'images/BS1/bs1.png' , 'images/BS1/bs2.png' , 'images/BS1/bs3.png' , 'images/BS1/bs4.png' , 'images/BS1/bs5.png' ,
+                'images/BS1/bs6.png' , 'images/BS1/bs7.png' , 'images/BS1/bs8.png' , 'images/BS1/bs9.png' , 'images/BS1/bs10.png' , 'images/BS1/bs11.png' ,]
+
+for snimka in range(12):
+
+    image = Image.open(inputSnimky[snimka])
+
+    imArr = numpy.asarray(image)
+
+    '''for i in range(785):
+        for j in range(785):
+            print(imArr[i][j], end=' ')
+        print() '''
+
+    numOfBlackAve = 0
+    numOfBrainAve = 0
+
+    points = [0] * 10000
+
+    for k in range(1000):
+
+        for i in range(10000):
+            points[i] = [random.randint(0, 784), random.randint(0, 784)]
+
+
+        numOfBlack = 0
+        numOfBrain = 0
+
+        for i in range(10000):
+            colorCode = imArr[points[i][0]][points[i][1]]
+            if colorCode == 0:
+                numOfBlack += 1
+            elif colorCode >= 24 and colorCode <= 120:
+                numOfBrain += 1
+
+        numOfBlackAve += numOfBlack
+        numOfBrainAve += numOfBrain
+        
+        '''print('pocet mimo: ', numOfBlack)
+        print('pocet na mozgu: ', numOfBrain)
+        print()'''
+
+    print('-------------------------------------------------')
+    print('snimka c.: ', snimka)
+    #print('    pocet mimo priemerne: ', numOfBlackAve / 1000)
+    print('    pocet na mozgu priemerne: ', numOfBrainAve / 1000)
+
+
